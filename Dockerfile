@@ -6,4 +6,4 @@ ADD vlmcsdmulti /vlmcsdmulti
 
 ENTRYPOINT ["/vlmcsdmulti", "vlmcsd","-ve"]
 
-EXPOSE 1027
+EXPOSE 1688
